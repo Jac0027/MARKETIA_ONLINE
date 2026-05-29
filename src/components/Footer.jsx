@@ -1,6 +1,6 @@
 import { MessageCircle, Mail, Phone, MapPin } from 'lucide-react'
 import { FaInstagram, FaFacebookF, FaYoutube } from 'react-icons/fa'
-import logo from '../assets/logo.png'
+import logo from '../assets/Logo.png'
 
 const links = [
   { label: 'Inicio', href: '#' },
